@@ -1,6 +1,6 @@
 <?php
-	// Encoding modes
-	 
+// 小豪博客:http://www.ixhaos.cn
+// url:http://www.ixhaos.cn/144.html
 	define('QR_MODE_NUL', -1);
 	define('QR_MODE_NUM', 0);
 	define('QR_MODE_AN', 1);
